@@ -1,0 +1,11 @@
+langchain
+langchain-groq
+fastapi
+uvicorn
+python-dotenv
+pypdf
+python-multipart
+python-docx
+openpyxl
+pytesseract
+pillow
